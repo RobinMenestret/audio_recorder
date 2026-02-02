@@ -1,0 +1,2 @@
+file 'C:\Users\RM275199\Documents\perso\enregistrement audio\chapitres\chap1.m4a'
+file 'C:\Users\RM275199\Documents\perso\enregistrement audio\chapitres\chap2.m4a'
